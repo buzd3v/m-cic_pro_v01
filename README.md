@@ -1,1 +1,1 @@
-###my own dícord bot
+### my own discord bot
